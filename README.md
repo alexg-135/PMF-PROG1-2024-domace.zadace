@@ -122,5 +122,5 @@
 | 02. Prikaz broja u računalu:   | 100%    | 1/1    | 2      |
 | 03. Osnovni programi i petlje: | 100%    | 5/5    | 2      |
 | 04. Složenije petlje:          | 100%    | 4/4    | 2      |
-| 05. Nizovi:                    | 100%    | 4/4    | 0      |
+| 05. Nizovi:                    | 100%    | 4/4    | 2      |
 |                                |         |        | 10     |
