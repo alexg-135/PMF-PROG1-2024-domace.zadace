@@ -7,22 +7,22 @@
 ## 01. Brojevni sustavi
 
 ### Zadatak 1. [Link](01.%20Brojevni%20sustavi\Zadatak%201.md)
-    Izračunajte: (7CFF)16+(35F3)16. Rješenje zapišite u bazi 16.
+    Izračunajte: (7CFF)_16 + (35F3)_16. Rješenje zapišite u bazi 16.
 
     Rješenje: B2F2
 
 ### Zadatak 2. [Link](01.%20Brojevni%20sustavi\Zadatak%202.md)
-    Izračunajte: (5736)_12-(2329)_12. Rješenje zapišite u bazi 12.
+    Izračunajte: (5736)_12 - (2329)_12. Rješenje zapišite u bazi 12.
 
     Rješenje: 3409
  
 ### Zadatak 3. [Link](01.%20Brojevni%20sustavi\Zadatak%203.md)
-    Pretvorite (4004)5 u bazu 8.
+    Pretvorite (4004)_5 u bazu 8.
 
     Rješenje: 770
 
 ### Zadatak 4. [Link](01.%20Brojevni%20sustavi\Zadatak%204.md)
-    Pretvorite (2734)8 u bazu 16.
+    Pretvorite (2734)_8 u bazu 16.
 
     Rješenje:5DC
 
